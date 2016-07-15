@@ -1,7 +1,6 @@
 # newcomer
-新人培训 (零基础培训)
+start 指北
 
-**说明 关于可选或选读, 导师可以根据新人能力, 推荐阅读**
 
 #### CSS基础
 
@@ -55,7 +54,6 @@
 
 #### AngularJS
 
-**以自学为主, 有问题问导师, 独自完成练习**
 
 1. AngularJS官方指南 https://docs.angularjs.org/guide
 2. PhoneCat https://docs.angularjs.org/tutorial
@@ -97,8 +95,7 @@
 
 #### 计划变更
 
-- 对于技术优秀的实习生, 可以直接通过练习, 检测其水平, 水平合格者, 可以直接跳过相应的阶段.
-- 初学者, 关于JS学习过程, 犀牛书过于理论化, 建议换用其他书作为入门教材, 当学生通过下面的知识学习后, 再回头学习犀牛书.
+- 初学者, 关于JS学习过程, 犀牛书过于理论化, 建议换用其他书作为入门教材, 当通过下面的知识学习后, 再回头学习犀牛书.
     - [JS入门](http://www.imooc.com/learn/36)
     - [JS高级](http://www.imooc.com/learn/10)
     - [Ajax](http://www.imooc.com/learn/250)
